@@ -1,6 +1,8 @@
-# react_bank_app
-![image](https://github.com/Vaibhav9027/react_bank_app/assets/115151167/7f88834a-e0c9-4553-ac18-a8a923f35310)
+# React + Vite
 
-![image](https://github.com/Vaibhav9027/react_bank_app/assets/115151167/56ccb2a1-36d7-45ca-92db-e19ce3bb6bd4)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![image](https://github.com/Vaibhav9027/react_bank_app/assets/115151167/fe4b206e-91e6-4c32-bf83-7524088e8d16)
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
